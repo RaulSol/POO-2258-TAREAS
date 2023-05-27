@@ -1,7 +1,6 @@
 package JRMS;
 
 import JRMS.Modelo.Libro;
-import JRMS.Persistencia.DemoLibroDB;
 import JRMS.Persistencia.LibroDAO;
 
 import java.sql.SQLException;

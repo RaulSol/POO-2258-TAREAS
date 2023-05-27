@@ -1,0 +1,3 @@
+La actividad extra 8, se encuentra dentro de "Extra7_PatronDeAcceso", con el fin de optimizar el tiempo y el código.
+
+El "main2", es el creado específicamente para la actividad extra 8 
