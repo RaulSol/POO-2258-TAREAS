@@ -199,4 +199,10 @@ public class VentanaLibro extends JFrame {
         this.setVisible(true);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
+
+    public void limpiar(){
+        txtTitulo.setText("");
+        txtAutor.setText("");
+    }
+
 }

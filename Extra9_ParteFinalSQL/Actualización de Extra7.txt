@@ -1,0 +1,2 @@
+Al igual que en la actividad anterior, lo visto en el video se implementa nuevamente en el apartado "Extra7_PatronDeAcceso".
+Por lo que la actividad 7 está actualizada con la actividad 8 y 9.
